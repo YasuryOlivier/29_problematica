@@ -26,3 +26,22 @@ nav.navbar{/*Color del nav bar*/
     background-color: #76CB7E;
     font-family: 'Lobster', cursive;
 }
+.thumbnail{
+    padding-top: 20px;
+}
+.glyphicon{
+    color: red;
+    font-size: 500%;
+}
+.bg-pink{
+background-color: #FFABE1;
+}
+.bg-1{
+
+}
+.bg-2{
+
+}
+.bg-3{
+    
+}
