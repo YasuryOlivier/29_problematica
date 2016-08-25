@@ -39,25 +39,28 @@ background-color: #FFABE1;
 
 .bg-1{
     background-image: url("../img/1.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 300px;
 }
 .bg-2{
     background-image: url("../img/2.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 300px;
 }
 .bg-3{
     background-image: url("../img/3.jpg");
+}
+.bg-g{
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
 }
-
 .bg-green{
     background-color:#1AAF28;
     padding: 5%;
     margin-top: 5%;
+}
+li:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1)
+}
+.thumbnail:hover{
+    -webkit-transform: scale(1);
+    transform: scale(0.5);
 }
