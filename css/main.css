@@ -1,5 +1,9 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster';
 
+section{
+    font-family: 'Lobster'
+}
+
 nav.navbar{/*Color del nav bar*/
 	background-color: #1AAF28;
 	border: none;
@@ -63,4 +67,5 @@ li:hover{
 .thumbnail:hover{
     -webkit-transform: scale(1);
     transform: scale(0.5);
+    background-color: green;
 }
